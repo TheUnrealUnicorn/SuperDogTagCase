@@ -1,0 +1,27 @@
+{
+  "name": "SuperDogTagCase",
+  "author": "Unreal_Unicorn",
+  "version": "1.0.0",
+  "license": "MIT",
+  "src":{
+    "src/modloader.js": "CacheModLoad"
+  },
+  "folders": [
+  "files/items",
+	"files/assort/ragfair",
+	"files/locales/en",
+	"files/templates"
+  ],
+  "filenames": [
+      
+	  "SuperDogTagCase"
+	
+  ],
+  "extras": [
+     
+  ],
+  "things": [
+
+  ],
+  	"required": []
+}
